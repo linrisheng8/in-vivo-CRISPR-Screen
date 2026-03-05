@@ -1,1 +1,19 @@
+#for Repeat1
+cellranger count --id=Repeat1 \
+           --libraries=Repeat1.csv \
+           --transcriptome=refdata-gex-GRCm39-2024-A/ \
+           --feature-ref=5_-crispr_example_feature_ref_rc.csv \
+           --create-bam false \
+           --localcores=96 \
+           --localmem=108
+#for Repeat2
+cellranger count --id=Repeat2 \
+           --libraries=Repeat2.csv \
+           --transcriptome=refdata-gex-GRCm39-2024-A/ \
+           --feature-ref=5_-crispr_example_feature_ref_rc.csv \
+           --create-bam false \
+           --localcores=96 \
+           --localmem=108
 
+#for aggr for merging two samples
+aggr --id=Megered --csv=aggr.csv
