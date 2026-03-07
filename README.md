@@ -22,4 +22,23 @@ in_vivo_Perturb-seq: codes and input files for Perturb-seq data analysis
 
 7.2-compare_3_screens-upset & PCA.ipynb: Related to  Fig5.C and FigS5
 
+8-venn-core_essential_vs_depmap_vs_invivo.ipynb 
 
+9-compare_vglut2_vs_vgat.ipynb
+
+10-compare_2M_vs_4M.ipynb
+
+
+11-iNC&volcano.ipynb and 12-compare_invivo_vs_ineuron.ipynb
+
+13-4m_vs_18M&aging_hits_enrichment&compare_human_aging.ipynb
+
+14-neuron-core-essential & enrichment.ipynb
+
+15-aging-sgRNA_dropout.ipynb
+
+16-QC_comparing_replicates.ipynb
+
+17-screen-pathway-label.ipynb
+
+18-2M_4M-sgRNA_dropout.ipynb
