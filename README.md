@@ -38,10 +38,10 @@ Generates plots for screens.
 Enrichment analyses.
 
 ### 7-compare_3_screens_complex.ipynb
-Comparison of three CRISPR screens.
+Comparison of three CRISPR screens (Vgat, Vglut2 and Emx1).
 
 ### 7.2-compare_3_screens-upset & PCA.ipynb
-UpSet and PCA analyses comparing three screens. 
+UpSet and PCA analyses comparing three screens (Vgat, Vglut2 and Emx1). 
 
 ### 8-venn-core_essential_vs_depmap_vs_invivo.ipynb
 Venn diagram comparing  essential genes from DepMap, core essential genes (Hart et.al) *in vivo* screens.
