@@ -1,4 +1,4 @@
-# Document Descriptionn
+# Document Description
 
 This repository contains the code and processed data used for the analysis of *in vivo* CRISPR screening experiments described in the manuscript.  
 
